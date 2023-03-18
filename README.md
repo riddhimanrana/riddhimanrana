@@ -8,11 +8,12 @@
 - anything. I love anything tech and would be more than happy to help you out/collaborate with you. However, by preference I would mostly be comfortabl3e collaborating on python, javascript, html, and css.
 - 📫 How to reach me ...
 - You can dm me on my discord
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/870936028108705803)](https://discord.com/users/870936028108705803)
 
 or on my google chat which is [riddhiman.rana@gmail.com](mailto:riddhiman.rana@gmail.com)
 
-Currently, I'm working on Orange Chat.
+Currently, I'm working on the dev release v0.0.5 [Orange Chat](https://github.com/rrcoder0167/Orange-Chat).
 
 <!---
 rrcoder0167/rrcoder0167 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
