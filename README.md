@@ -1,17 +1,18 @@
 - 👋 Hi, I’m @rrcoder0167 and I'm a learning developer in middle school who loves working on cool projects, creating overengineered solutions to things, and learning/following the tech community.
-- I have a youtube channel named Ridz TechTube, go check it out!
+- I have a YouTube channel named Ridz TechTube, go check it out!
 - 👀 I’m interested in ...
-- tech, hardware, coding, building pcs, games, PYTHON!
+- tech, hardware, coding, building PCs, games.
 - 🌱 I’m currently learning ...
-- Python(very experienced), java(decent), c++(new),javascript(moderate) and have completed learning html and css.
+- Python(mastered), java(decent), c++(new),javascript(moderate) and have completed learning html and css.
 - 💞️ I’m looking to collaborate on ...
-- anything. I love anything tech and would be more than happy to help you out/collaborate with you. However, by preference I would mostly be comfortable collaborating on python, javascript, html, and css.
+- anything. I love anything tech and would be more than happy to help you out/collaborate with you. However, by preference, I would mostly be comfortable collaborating on Python projects.
+- ⚡ Fun fact: I started learning coding when I was 7 years old.
 - 📫 How to reach me ...
 - You can dm me on my discord
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/870936028108705803)](https://discord.com/users/870936028108705803)
 
-Currently, I'm working on the creation of a beautiful new project.
+Currently, I'm working on the creation of a beautiful new project(its to help with my procrastination).
 
 <!---
 rrcoder0167/rrcoder0167 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
