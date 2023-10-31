@@ -19,4 +19,4 @@ Currently, I'm working on the dev release v0.0.5 [Orange Chat](https://github.co
 rrcoder0167/rrcoder0167 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![rrcoder0167's GitHub stats](https://github-readme-stats.vercel.app/api?username=rrcoder0167)](https://github.com/anuraghazra/github-readme-stats&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)
+[![rrcoder0167's GitHub stats](https://github-readme-stats.vercel.app/api?username=rrcoder0167&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/anuraghazra/github-readme-stats)
