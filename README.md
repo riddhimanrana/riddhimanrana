@@ -11,9 +11,7 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/870936028108705803)](https://discord.com/users/870936028108705803)
 
-or on my google chat which is [riddhiman.rana@gmail.com](mailto:riddhiman.rana@gmail.com)
-
-Currently, I'm working on the dev release v0.0.5 [Orange Chat](https://github.com/rrcoder0167/Orange-Chat).
+Currently, I'm working on the creation of a beautiful new project.
 
 <!---
 rrcoder0167/rrcoder0167 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
