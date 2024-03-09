@@ -16,6 +16,11 @@ I'm a learning developer in middle school who loves working on cool projects, cr
 ### Currently working on
 - Lets Assist, a volunteering portal to find volunteering opportunities near you
 
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/parapsychic/ishowoff/">
+  <img src="https://raw.githubusercontent.com/rrcoder0167/vscode-status/main/stats.svg">
+</a>
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rrcoder0167&layout=compact)[![rrcoder0167's GitHub stats](https://github-readme-stats.vercel.app/api?username=rrcoder0167&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 rrcoder0167/rrcoder0167 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
