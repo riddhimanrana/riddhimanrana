@@ -20,6 +20,8 @@ I'm a learning developer in middle school who loves working on cool projects, cr
   <img src="https://raw.githubusercontent.com/rrcoder0167/vscode-status/main/stats.svg">
 </a>
 
+![What I code in](https://github-readme-tech-stack.vercel.app/api/cards?title=What+I+code+in&align=center&titleAlign=center&borderRadius=7.5&fontFamily=JetBrains+Mono&fontWeight=bold&lineCount=1&theme=catppuccin_macchiato&bg=%2324273a&badge=%231e2030&border=%236e738d&titleColor=%23c6a0f6&line1=next.js%2Cnext.js%2Ccad3f5%3Bpython%2Cpython%2Ceed49f%3Bcplusplus%2CC%2B%2B%2Cb7bdf8%3Btypescript%2Ctypescript%2C8aadf4%3B)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rrcoder0167&layout=compact)[![rrcoder0167's GitHub stats](https://github-readme-stats.vercel.app/api?username=rrcoder0167&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/anuraghazra/github-readme-stats)
 <!---
