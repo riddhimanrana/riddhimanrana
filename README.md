@@ -16,9 +16,6 @@ I'm a learning developer in middle school who loves working on cool projects, cr
 ### Currently working on
 - Lets Assist, a volunteering portal to find volunteering opportunities near you
 
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/parapsychic/ishowoff/">
-  <img src="https://raw.githubusercontent.com/rrcoder0167/vscode-status/main/stats.svg">
-</a>
 
 ![What I code in](https://github-readme-tech-stack.vercel.app/api/cards?title=What+I+code+in&align=center&titleAlign=center&borderRadius=7.5&fontFamily=JetBrains+Mono&fontWeight=bold&lineCount=1&theme=catppuccin_macchiato&bg=%2324273a&badge=%231e2030&border=%236e738d&titleColor=%23c6a0f6&line1=next.js%2Cnext.js%2Ccad3f5%3Bpython%2Cpython%2Ceed49f%3Bcplusplus%2CC%2B%2B%2Cb7bdf8%3Btypescript%2Ctypescript%2C8aadf4%3B)
 
