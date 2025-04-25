@@ -1,8 +1,6 @@
 ## 👋 Hi, I’m Riddhiman Rana(aka rrcoder0167)!
 
 I'm a learning developer in middle school who loves working on cool projects, creating overengineered solutions to things, and learning/following the tech community.
-
-- I have a YouTube channel named Ridz TechTube, go check it out!
 #### 👀 I’m interested in ...
 - tech, hardware, coding, building PCs, games.
 #### 🌱 I’m currently learning ...
