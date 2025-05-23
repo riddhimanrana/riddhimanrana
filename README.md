@@ -66,4 +66,11 @@ More info and hotkeys at [riddhimanrana/dotfiles](https://github.com/riddhimanra
 
 ## Stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=riddhimanrana&theme=github_dark)
+<picture>
+  <source 
+    media="(prefers-color-scheme: dark)" 
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=riddhimanrana&theme=github_dark">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=riddhimanrana&theme=github" 
+    alt="GitHub Stats">
+</picture>
