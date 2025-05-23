@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <title>GitHub Stats</title>
+    </head>
+    <body>
+        <img id="stats" alt="GitHub Stats" />
+        <script>
+            const prefersDark = window.matchMedia(
+                "(prefers-color-scheme: dark)",
+            ).matches;
+            const theme = prefersDark ? "github_dark" : "github";
+            const img = document.getElementById("stats");
+            img.src = `https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=riddhimanrana&theme=${theme}`;
+        </script>
+    </body>
+</html>
