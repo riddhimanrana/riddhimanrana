@@ -1,9 +1,11 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./banner/riddhimanrana-dark.png">
-  <img alt="Riddhiman Rana Banner" src="./banner/riddhimanrana-light.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/riddhimanrana/riddhimanrana/blob/main/banners/riddhimanrana-dark.png?raw=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/riddhimanrana/riddhimanrana/blob/main/banners/riddhimanrana-light.png?raw=true">
+  <img alt="Riddhiman Rana Banner" src="https://github.com/riddhimanrana/riddhimanrana/blob/main/banners/riddhimanrana-light.png?raw=true">
 </picture>
 
-I'm a learning developer in middle school who loves working on cool projects, creating overengineered solutions to things, and learning/following the tech community.
+I'm a high school freshman with a strong passion for competitive programming and modern web development. I'm particularly interested in creating technology that solves real-world problems and aspire to become an entrepreneur in the future.
+
 ## What Do I Do?
 
 #### Web Dev
