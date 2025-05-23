@@ -1,21 +1,67 @@
-## 👋 Hi, I’m Riddhiman Rana(aka rrcoder0167)!
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./banner/riddhimanrana-dark.png">
+  <img alt="Riddhiman Rana Banner" src="./banner/riddhimanrana-light.png">
+</picture>
 
 I'm a learning developer in middle school who loves working on cool projects, creating overengineered solutions to things, and learning/following the tech community.
-#### 👀 I’m interested in ...
-- tech, hardware, coding, building PCs, games.
-#### 🌱 I’m currently learning ...
-- Python(mastered), java(decent), c++(new),javascript(moderate) and have completed learning html and css.
-#### 💞️ I’m looking to collaborate on ...
-- anything. I love anything tech and would be more than happy to help you out/collaborate with you. However, by preference, I would mostly be comfortable collaborating on Python projects.
-#### ⚡ Fun fact ...
-- I started learning coding when I was 7 years old.
-#### 📫 How to reach me ...
-- You can dm me on my discord
-### Currently working on
-- Lets Assist, a volunteering portal to find volunteering opportunities near you
+## What Do I Do?
 
+#### Web Dev
+- Next.js
+- React.js
+- Tailwind CSS
+- Vercel
+- Supabase
 
-![What I code in](https://github-readme-tech-stack.vercel.app/api/cards?title=What+I+code+in&align=center&titleAlign=center&borderRadius=7.5&fontFamily=JetBrains+Mono&fontWeight=bold&lineCount=1&theme=catppuccin_macchiato&bg=%2324273a&badge=%231e2030&border=%236e738d&titleColor=%23c6a0f6&line1=next.js%2Cnext.js%2Ccad3f5%3Bpython%2Cpython%2Ceed49f%3Bcplusplus%2CC%2B%2B%2Cb7bdf8%3Btypescript%2Ctypescript%2C8aadf4%3B)
+#### Competitive Programming
+- C++
+- Python
+- Java
 
+## Skills
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rrcoder0167&layout=compact)[![rrcoder0167's GitHub stats](https://github-readme-stats.vercel.app/api?username=rrcoder0167&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/anuraghazra/github-readme-stats)
+#### General Skills
+
+- Programming for 8 years
+- Fluent in C++, Python, and Typescript, experience in Java, Rust, and more
+- Competitive Programming and Contests for 2 years
+- Web Development for 2 years
+
+#### Web Development
+
+- 2 years of web dev experience
+- Worked with Next.js, React.js, Flask, Django, Supabase, Cloudflare, and Vercel for full stack development
+- Use Tailwind CSS and shadcn/ui for styling
+
+#### Competitive Programming
+
+- 2 years of competitive programming experience
+- Solved 100+ problems on LeetCode, USACO, Codeforces, and more
+- Participated in BAPC, USACO, and Codeforces contests
+
+## Projects
+- [Let's Assist](https://lets-assist.com): Comprehensive online volunteering platform that helps organizations and high school CSF programs manage, track, and coordinate volunteering activities for students and communities.
+- [PyEcoHome Energy Tracker](https://github.com/riddhimanrana/PyEcoHome-Energy-Tracker): A Python-based energy tracker that helps users monitor and analyze their energy consumption patterns, providing insights and recommendations for reducing energy usage and costs. Won finalist for Congressional App Challenge 2023.
+- [Portfolio](https://rrcoder0167.is-a.dev): My personal portfolio website showcasing my projects, skills, and experience. Built with Next.js and Tailwind CSS.
+- [USACO Solutions](https://github.com/riddhimanrana/usaco-solutions): A collection of my solutions to USACO problems and prep materials, organized by year and problem type.
+
+## Setup
+
+#### Hardware
+
+- Main Computer: [M1 13" MacBook Air](https://support.apple.com/en-us/111883) (8GB RAM, 512GB SSD, 8 Core GPU)
+- Mouse: [Razer Viper](https://mysupport.razer.com/app/answers/detail/a_id/3669/~/razer-viper-%7C-rz01-02550-support-%26-faqs) (Wired)
+- Keyboard: [Keychron K8](https://www.keychron.com/products/keychron-k8-tenkeyless-wireless-mechanical-keyboard?variant=32018252955737) (Gateron G Pro Brown, Hot-swappable, RGB, Foam Modded)
+- Headphones: [AirPods Pro 2](https://support.apple.com/en-us/111851) (USB-C)
+
+## What's on my Computer?
+
+- Browser: [Arc](https://arc.net/)
+- Terminal: [Warp](https://warp.dev/)
+- Code Editor: [VSCode](https://code.visualstudio.com/) and [Zed](https://zed.dev/)
+- App Launcher: [Raycast](https://www.raycast.com/)
+
+More info and hotkeys at [riddhimanrana/dotfiles](https://github.com/riddhimanrana/dotfiles)
+
+## Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=riddhimanrana&theme=github)
