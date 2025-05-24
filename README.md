@@ -3,7 +3,7 @@
   <img alt="Riddhiman Rana Banner" src="./banners/riddhimanrana-light.png">
 </picture>
 
-I'm a high school freshman with a strong passion for competitive programming and modern web development. I'm particularly interested in creating technology that solves real-world problems and aspire to become an entrepreneur in the future.
+I'm a high school freshman with a strong passion for competitive programming and web development. I'm interested in creating technology that solves real-world problems and aspire to become an entrepreneur in the future.
 
 ## What Do I Do?
 
