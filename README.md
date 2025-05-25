@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./banners/riddhimanrana-dark.png">
-  <img alt="Riddhiman Rana Banner" src="./banners/riddhimanrana-light.png">
+  <source type="image/webp" media="(prefers-color-scheme: dark)" srcset="./banners/riddhimanrana-dark.webp">
+  <img alt="Riddhiman Rana Banner" loading="lazy" decoding="async" src="./banners/riddhimanrana-light.webp">
 </picture>
 
 I'm a high school freshman with a strong passion for competitive programming and web development. I'm interested in creating technology that solves real-world problems and aspire to become an entrepreneur in the future.
@@ -67,10 +67,10 @@ More info and hotkeys at [riddhimanrana/dotfiles](https://github.com/riddhimanra
 ## Stats
 
 <picture>
-  <source 
-    media="(prefers-color-scheme: dark)" 
+  <source
+    media="(prefers-color-scheme: dark)"
     srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=riddhimanrana&theme=github_dark">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=riddhimanrana&theme=github" 
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=riddhimanrana&theme=github"
     alt="GitHub Stats">
 </picture>
