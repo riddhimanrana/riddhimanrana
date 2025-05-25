@@ -1,6 +1,6 @@
 <picture>
-  <source type="image/webp" media="(prefers-color-scheme: dark)" srcset="./banners/riddhimanrana-dark.webp">
-  <img alt="Riddhiman Rana Banner" loading="lazy" decoding="async" src="./banners/riddhimanrana-light.webp">
+  <source type="image/avif" media="(prefers-color-scheme: dark)" srcset="./banners/riddhimanrana-dark.avif">
+  <img alt="Riddhiman Rana Banner" loading="lazy" decoding="async" src="./banners/riddhimanrana-light.avif">
 </picture>
 
 I'm a high school freshman with a strong passion for competitive programming and web development. I'm interested in creating technology that solves real-world problems and aspire to become an entrepreneur in the future.
