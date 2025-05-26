@@ -43,7 +43,7 @@ I'm a high school freshman with a strong passion for competitive programming and
 ## Projects
 - [Let's Assist](https://lets-assist.com): Comprehensive online volunteering platform that helps organizations and high school CSF programs manage, track, and coordinate volunteering activities for students and communities.
 - [PyEcoHome Energy Tracker](https://github.com/riddhimanrana/PyEcoHome-Energy-Tracker): A Python-based energy tracker that helps users monitor and analyze their energy consumption patterns, providing insights and recommendations for reducing energy usage and costs. Won finalist for Congressional App Challenge 2023.
-- [Portfolio](https://rrcoder0167.is-a.dev): My personal portfolio website showcasing my projects, skills, and experience. Built with Next.js and Tailwind CSS.
+- [Portfolio](https://riddhimanrana.com): My personal portfolio website showcasing my projects, skills, and experience. Built with Next.js and Tailwind CSS.
 - [USACO Solutions](https://github.com/riddhimanrana/usaco-solutions): A collection of my solutions to USACO problems and prep materials, organized by year and problem type.
 
 ## Setup
