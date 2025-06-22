@@ -38,6 +38,7 @@ I'm a high school freshman with a strong passion for competitive programming and
 
 - 2 years of competitive programming experience
 - Solved 100+ problems on LeetCode, USACO, Codeforces, and more
+- USACO Gold Contestant
 - Participated in BAPC, USACO, and Codeforces contests
 
 ## Projects
