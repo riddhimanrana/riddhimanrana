@@ -47,6 +47,8 @@ I'm a high school freshman with a strong passion for competitive programming and
 - [Portfolio](https://riddhimanrana.com): My personal portfolio website showcasing my projects, skills, and experience. Built with Next.js and Tailwind CSS.
 - [USACO Solutions](https://github.com/riddhimanrana/usaco-solutions): A collection of my solutions to USACO problems and prep materials, organized by year and problem type.
 
+I am currently working on [Orion](https://github.com/riddhimanrana/orion): A machine learning research project for real-time scene understanding with temporal vision context, using reasoning to track, remember, and analyze visual events as they unfold.
+
 ## Setup
 
 #### Hardware
