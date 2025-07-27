@@ -13,7 +13,7 @@ I'm a high school sophomore with a strong passion for competitive programming an
 - TensorFlow
 - Vector Databases
 - Dynamic Graph Knowledge
-- Semantic Search-based Algorithms
+- Semantic Search-based Algorithms(like RAG)
 
 #### Competitive Programming
 - C++
