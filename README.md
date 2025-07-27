@@ -67,7 +67,7 @@ I am currently working on [Orion](https://github.com/riddhimanrana/orion): A mac
 - Keyboard: [Keychron K8](https://www.keychron.com/products/keychron-k8-tenkeyless-wireless-mechanical-keyboard?variant=32018252955737) (Gateron G Pro Brown, Hot-swappable, RGB, Foam Modded)
 - Headphones: [AirPods Pro 2](https://support.apple.com/en-us/111851) (USB-C)
 
-## What's on my Computer?
+#### What's on my Computer?
 
 - Browser: [Arc](https://arc.net/)
 - Terminal: [Warp](https://warp.dev/)
