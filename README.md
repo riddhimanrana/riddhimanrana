@@ -46,7 +46,7 @@ I'm a high school sophomore with a strong passion for competitive programming an
 
 - 2 years of competitive programming experience
 - Solved 100+ problems on LeetCode, USACO, Codeforces, and more
-- USACO Gold Contestant
+- USACO Platinum Contestant
 - Participated in BAPC, USACO, and Codeforces contests
 
 ## Projects
@@ -62,9 +62,9 @@ I am currently working on [Orion](https://github.com/riddhimanrana/orion): A mac
 
 #### Hardware
 
-- Main Computer: [M1 13" MacBook Air](https://support.apple.com/en-us/111883) (8GB RAM, 512GB SSD, 8 Core GPU)
+- Main Computer: [M5 14" MacBook Pro](https://support.apple.com/en-us/125405) (24GB RAM, 512GB SSD, 10 Core CPU/GPU)
 - Mouse: [Razer Viper](https://mysupport.razer.com/app/answers/detail/a_id/3669/~/razer-viper-%7C-rz01-02550-support-%26-faqs) (Wired)
-- Keyboard: [Keychron K8](https://www.keychron.com/products/keychron-k8-tenkeyless-wireless-mechanical-keyboard?variant=32018252955737) (Gateron G Pro Brown, Hot-swappable, RGB, Foam Modded)
+- Keyboard: [Royal Kludge R75 Pro](https://rkgamingstore.com/products/r75-75-wireless-gaming-keyboard) (Cherry Profile PBT Keycaps, Linear Switches, Wireless)
 - Headphones: [AirPods Pro 2](https://support.apple.com/en-us/111851) (USB-C)
 
 #### What's on my Computer?
